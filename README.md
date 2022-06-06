@@ -63,9 +63,9 @@ Best results on model is obtained from Random forest regressor and XG boost regr
 # References 
 [1] “Short-Term Prediction of Bike-Sharing Demand Using Multi-Source Data: A Spatial-Temporal Graph Attentional LSTM Approach” by Xinwei Ma 1 , Yurui Yin 1 , Yuchuan Jin 2 , Mingjia He 3 and Minqing Zhu 4
 
-[2]https://www.computerscijournal.org/vol10no1/prediction-of-bike-sharing-demand/
+[2] https://www.computerscijournal.org/vol10no1/prediction-of-bike-sharing-demand/
 
-[3]https://link.springer.com/chapter/10.1007/978-3-030-94751-4_25
+[3] https://link.springer.com/chapter/10.1007/978-3-030-94751-4_25
 
 [4] Foell, S., Phithakkitnukoon, S., Kortuem, G., Veloso, M., Bento, C., 2015. Predictability of public transport usage: A study of bus rides in lisbon, portugal. IEEE Transactions on Intelligent Transportation Systems 16, 2955–2960.
 
