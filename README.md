@@ -55,7 +55,7 @@ Best results on model is obtained from Random forest regressor and XG boost regr
 • Out of which Random forest regressor, XG boost regressor have more accuracy.
 • With the application of Grid search CV on both finally we got more accuracy for XG boost regressor. As r2 = 0.97 and RMSE = 190.27.
 
-
+Any suggestions are welcomed...
 
 
 
