@@ -49,11 +49,28 @@ Date from date column and Hours taken seperately with the help of Heat map we re
 Various types of linear model are implemented on data such as Linear regression, Ridge regression, Lasso regression, Elastic net regression and Polynomial feature regression, with these models results were good but not satisfying So we have to move towards some complex models such as Decision tree regressor, Random forest regressor, XG boost regressor and Cat boost regressor.
 Best results on model is obtained from Random forest regressor and XG boost regressor. After implementation of Grid search CV on both models final accuracy (r2) for XGB was more. Random forest regressor R2 train and test 0.98,0.91, XG boost R2 train and test 0.97,0.97 respectively
 # Conclusion
+
 • Bicycle sharing systems can be the new boom in India, with use of various prediction models the ease of operations will be increased. 
+
 • During implementation of linear models accuracy obtained was not more so we moved towards more complex models.
+
 • With application of Decision tree regressor, Random forest regressor, XG boost regressor and Cat boost regressor we got higher accuracy.
+
 • Out of which Random forest regressor, XG boost regressor have more accuracy.
+
 • With the application of Grid search CV on both finally we got more accuracy for XG boost regressor. As r2 = 0.97 and RMSE = 190.27.
+
+# References 
+[1] “Short-Term Prediction of Bike-Sharing Demand Using Multi-Source Data: A Spatial-Temporal Graph Attentional LSTM Approach” by Xinwei Ma 1 , Yurui Yin 1 , Yuchuan Jin 2 , Mingjia He 3 and Minqing Zhu 4
+
+[2]https://www.computerscijournal.org/vol10no1/prediction-of-bike-sharing-demand/
+
+[3]https://link.springer.com/chapter/10.1007/978-3-030-94751-4_25
+
+[4] Foell, S., Phithakkitnukoon, S., Kortuem, G., Veloso, M., Bento, C., 2015. Predictability of public transport usage: A study of bus rides in lisbon, portugal. IEEE Transactions on Intelligent Transportation Systems 16, 2955–2960.
+
+[5] Gers, F.A., Schmidhuber, J., Cummins, F., 1999. Learning to forget: Continual prediction with lstm .
+
 
 Any suggestions are welcomed...
 
